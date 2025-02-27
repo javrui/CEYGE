@@ -1,0 +1,14 @@
+# Dependencias básicas de Sphinx
+sphinx
+sphinx_rtd_theme  # Tema de Read the Docs
+
+# Extensiones configuradas en conf.py
+sphinx.ext.autodoc
+sphinx.ext.autosummary
+sphinx.ext.napoleon
+sphinx_autodoc_typehints  # Soporte para type hints
+m2r2  # Soporte para Markdown en Sphinx
+
+# Soporte de internacionalización (traducciones)
+sphinx-intl
+
